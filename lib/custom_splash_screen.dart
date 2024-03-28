@@ -97,3 +97,14 @@ class SplashWidgetState extends State<CustomSplashScreen>
     );
   }
 }
+
+
+///in the main.dart file
+
+///return CustomSplashScreen(
+      // Replace with your rive animation path
+      //riveAsset: 'assets/animations/my_animation.riv',
+      // Replace with your svg logo path
+      //svgLogoPath: 'assets/images/my_logo.svg',
+      // Replace with your desired text);
+      //text: 'Crevify');

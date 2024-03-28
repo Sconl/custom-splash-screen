@@ -34,8 +34,24 @@ npm install
 
 ## Usage
 
-Here are the instructions on how to use this project
+In your main.dart file, 
 
+import 
+
+```bash
+import 'package:custom_splash_screen/custom_splash_screen.dart';
+```
+then update
+
+```bash
+return CustomSplashScreen(
+    // Replace with your rive animation path
+    riveAsset: 'assets/animations/my_animation.riv',
+    // Replace with your svg logo path
+    svgLogoPath: 'assets/images/my_logo.svg',
+    // Replace with your desired text);
+    text: 'Crevify');
+```
 
 ## Contributing
 
