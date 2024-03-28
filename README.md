@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a package that enables for the integration of a custom splash screen in any flutter mobile application project
+A customizable splash screen widget that allows you to integrate animations (Rive format), logos (SVG format), and text for a visually appealing app startup experience. It adapts to the user's app theme and provides a flexible way to showcase your brand identity during launch.
 
 
 ## Author
@@ -26,7 +26,7 @@ This is a package that enables for the integration of a custom splash screen in 
 Here are the instructions for how to install and use my project.
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone git@github.com:Sconl/custom_splash_screen.git
 cd your-repo
 npm install 
 
